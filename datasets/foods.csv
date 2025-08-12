@@ -1,0 +1,198 @@
+food,gi,carbs_per_100g
+Apple,39,14
+Banana,62,23
+Rice,73,28
+Chicken,0,0
+Salad,15,5
+Bread,71,50
+Yogurt,35,5
+Pasta,50,25
+Fish,0,0
+Orange,40,12
+Potato,85,20
+Eggs,0,1
+Cheese,0,1
+Nuts,15,20
+Carrot,35,8
+Broccoli,15,7
+Spinach,15,4
+Quinoa,53,21
+Oatmeal,55,27
+Lentils,29,20
+Chickpeas,33,27
+Corn,54,19
+Tomato,15,4
+Cucumber,15,4
+Avocado,15,9
+Beef,0,0
+Pork,0,0
+Turkey,0,0
+Salmon,0,0
+Tuna,0,0
+Shrimp,0,0
+Blueberries,53,14
+Strawberries,40,8
+Grapes,46,18
+Watermelon,72,8
+Mango,51,15
+Pineapple,59,13
+Peach,42,10
+Pear,38,15
+Kiwi,52,15
+Almonds,15,22
+Walnuts,15,14
+Cashews,22,30
+Pistachios,15,28
+Sweet Potato,44,20
+Pumpkin,75,8
+Green Beans,15,7
+Peas,48,14
+Cauliflower,15,5
+Brussels Sprouts,15,9
+Asparagus,15,4
+Zucchini,15,3
+Eggplant,15,6
+Mushrooms,10,3
+Onion,10,9
+Garlic,30,33
+Cabbage,10,6
+Kale,15,10
+Barley,28,28
+Millet,71,24
+Brown Rice,50,23
+Wild Rice,57,21
+Buckwheat,54,20
+Tofu,15,2
+Tempeh,15,9
+Soybeans,15,11
+Black Beans,30,23
+Kidney Beans,29,22
+Pinto Beans,39,26
+Lima Beans,32,20
+Cottage Cheese,0,3
+Greek Yogurt,12,4
+Milk,31,5
+Almond Milk,30,1
+Soy Milk,34,3
+Honey,61,82
+Maple Syrup,54,67
+White Bread,75,50
+Whole Wheat Bread,74,43
+Bagel,72,56
+Croissant,67,46
+Pancakes,66,28
+Waffles,76,33
+Cornflakes,81,87
+Granola,56,65
+Raisins,64,79
+Dates,42,75
+Prunes,29,64
+Cranberries,62,12
+Sushi Rice,89,36
+Naan Bread,71,50
+Pita Bread,68,56
+Tortilla,52,48
+Popcorn,65,28
+French Fries,75,34
+Pizza Dough,80,33
+Chocolate,49,65
+Ice Cream,61,24
+Apricot,34,11
+Cherries,22,12
+Plum,39,11
+Grapefruit,25,11
+Papaya,60,11
+Guava,47,14
+Lychee,50,17
+Dragon Fruit,48,13
+Raspberries,32,12
+Blackberries,25,10
+Cantaloupe,65,8
+Honeydew,62,9
+Fig,61,19
+Pomegranate,53,19
+Artichoke,20,13
+Beetroot,64,10
+Celery,15,3
+Radish,15,3
+Leek,15,14
+Parsnip,97,18
+Turnip,62,6
+Okra,20,7
+Collard Greens,15,6
+Swiss Chard,15,4
+Fennel,15,7
+Bok Choy,15,2
+Rye Bread,65,45
+Sourdough Bread,54,49
+Multigrain Bread,53,43
+Ciabatta,60,50
+Basmati Rice,58,28
+Jasmine Rice,89,28
+Couscous,65,23
+Farro,45,26
+Amaranth,107,19
+Lamb,0,0
+Duck,0,0
+Venison,0,0
+Crab,0,0
+Lobster,0,0
+Clams,0,0
+Mussels,0,7
+Goat Cheese,0,2
+Feta Cheese,0,4
+Parmesan,0,3
+Cheddar,0,1
+Skim Milk,32,5
+Oat Milk,30,7
+Rice Milk,86,19
+Agave Nectar,15,76
+Brown Sugar,65,98
+White Sugar,65,100
+Molasses,55,75
+Pretzels,83,80
+Crackers,74,67
+Rice Cakes,82,82
+Doughnut,75,47
+Muffin,65,45
+Biscuit,70,43
+Chia Seeds,15,42
+Flaxseeds,35,29
+Sunflower Seeds,20,24
+Pumpkin Seeds,25,18
+Squash,75,12
+Bell Pepper,15,6
+Jicama,15,9
+Radicchio,15,4
+Endive,15,3
+Arugula,15,4
+Watercress,15,1
+Sorghum,68,25
+Teff,55,20
+Polenta,68,15
+Gnocchi,68,17
+Hamburger Bun,61,50
+Hot Dog Bun,61,47
+English Muffin,77,46
+Melba Toast,70,77
+Tangerine,43,13
+Nectarine,43,11
+Passion Fruit,30,23
+Starfruit,36,7
+Persimmon,50,33
+Kumquat,40,16
+Coconut,45,15
+Coconut Milk,41,3
+Peanut Butter,14,20
+Almond Butter,15,21
+Tahini,40,21
+Hummus,6,14
+Salsa,15,6
+Soy Sauce,20,8
+Mustard,0,6
+Ketchup,55,26
+Barbecue Sauce,55,35
+Mayonnaise,0,4
+Olive Oil,0,0
+Butter,0,0
+Margarine,0,0
